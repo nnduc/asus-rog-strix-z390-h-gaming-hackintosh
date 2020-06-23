@@ -1,3 +1,6 @@
+
+![](images/1.png)
+
 ### Hardware
 Main: Asus ROG Strix Z390-H Gaming<br>
 CPU: Intel Core i7 9700<br>
@@ -12,16 +15,16 @@ Version: 0.5.9
 10.15.5
 
 ### What's Working
-[x]  Display
-[x]  Ethernet
-[x]  Sleep/Wake
+- :white_check_mark: Display
+- :white_check_mark: Ethernet
+- :white_check_mark: Sleep/Wake
+- :white_check_mark: USB ports
+- :white_check_mark: Audio
 
 ### BIOS setting
-See [https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html#intel-bios-settings](Intel BIOS settings)
+See [Intel BIOS settings](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
-### Image
-
-![images/1.png]()<br>
-![images/2.png]()<br>
-![images/3.png]()<br>
-![images/4.png]()<br>
+### Images
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
