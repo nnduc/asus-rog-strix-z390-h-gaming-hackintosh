@@ -25,6 +25,26 @@ Version: 0.5.9
 See [Intel BIOS settings](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
 ### Images
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
+![](Images/2.png)
+![](Images/3.png)
+![](Images/4.png)
+
+
+### Tools
+
+1. GenSMBIOS
+[Link](https://github.com/corpnewt/GenSMBIOS)
+
+2. ProperTree
+[Link](https://github.com/corpnewt/ProperTree)
+
+3. MountEFI
+[Link](https://github.com/corpnewt/MountEFI)
+
+4. Hackintool
+[Link](https://github.com/headkaze/Hackintool/releases)
+
+### Guide & Tutorial
+
+- USB mapping: ![](Media/USB-mapping.webm)
+
