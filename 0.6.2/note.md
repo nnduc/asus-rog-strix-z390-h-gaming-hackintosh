@@ -61,3 +61,14 @@ Requires OS X 10.9 or newer, 10.8-10.8 users can use the IntelSnowMausi instead 
 
 * USBInjectAll https://github.com/Sniki/OS-X-USB-Inject-All/releases
 Used for injecting Intel USB controllers on systems without defined USB ports in ACPI
+
+# SSDTs
+
+* Tools:
+https://github.com/acidanthera/MaciASL/releases/tag/1.5.8
+
+https://github.com/corpnewt/SSDTTime
+
+* Steps:
+    - Dump DSDT: https://dortania.github.io/Getting-Started-With-ACPI/Manual/dump.html#uefi-shell
+    - Use SSDTTime generate SSDT files from dsdt.aml (dsdt.dat)
