@@ -72,3 +72,21 @@ https://github.com/corpnewt/SSDTTime
 * Steps:
     - Dump DSDT: https://dortania.github.io/Getting-Started-With-ACPI/Manual/dump.html#uefi-shell
     - Use SSDTTime generate SSDT files from dsdt.aml (dsdt.dat)
+    - Add SSDT files to AHCI folder
+
+# Creating your config.plist
+
+* Tools
+https://github.com/corpnewt/ProperTree
+https://github.com/corpnewt/GenSMBIOS
+
+* Steps:
+    - Copy `Docs/Sample.plist` to `EFI/OC/config.plist`
+    - Open `EFI/OC/config.plist` on ProperTree
+    - After the config is opened, press Cmd/Ctrl + Shift + R and point it at your EFI/OC folder to perform a "Clean Snapshot"
+
+# Configuration
+
+Link: https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point
+
+## ACPI
