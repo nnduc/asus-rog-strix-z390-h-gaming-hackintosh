@@ -1,5 +1,3 @@
-![](images/1.png)
-
 ### Hardware
 
 Main: Asus ROG Strix Z390-H Gaming<br>
@@ -10,11 +8,11 @@ SSD: SSD Samsung 970 EVO Plus PCIe NVMe V-NAND M.2 2280 250GB MZ-V7S250BW<br>
 
 ### OpenCore
 
-Version: 0.5.9
+Version: 0.6.2
 
 ### MacOS
 
-10.15.5
+10.15.7
 
 ### What's Working
 
@@ -43,16 +41,4 @@ See [Intel BIOS settings](https://dortania.github.io/OpenCore-Desktop-Guide/conf
    [Link](https://github.com/headkaze/Hackintool/releases)
 
 ### Guide & Tutorial
-
-- USB mapping:
-<figure class="video_container">
-<video controls="true" allowfullscreen="true">
-<source src="Media/USB-mapping.webm" type="video/webm">
-</video>
-</figure>
-
-### Images
-
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
+(TBD)
