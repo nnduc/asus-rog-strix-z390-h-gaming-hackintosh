@@ -1,0 +1,11 @@
+0.5.9 export-ignore
+images export-ignore
+Tools export-ignore
+Media export-ignore
+DSDT  export-ignore
+
+README.md export-ignore
+LICENSE export-ignore
+.gitmodules export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
