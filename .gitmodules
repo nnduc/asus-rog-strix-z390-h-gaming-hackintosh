@@ -7,3 +7,12 @@
 [submodule "Tools/MountEFI"]
 	path = Tools/MountEFI
 	url = git@github.com:corpnewt/MountEFI.git
+[submodule "Tools/SSDTTime"]
+	path = Tools/SSDTTime
+	url = git@github.com:corpnewt/SSDTTime.git
+[submodule "Tools/USBMap"]
+	path = Tools/USBMap
+	url = git@github.com:corpnewt/USBMap.git
+[submodule "Tools/OCConfigCompare"]
+	path = Tools/OCConfigCompare
+	url = git@github.com:corpnewt/OCConfigCompare.git

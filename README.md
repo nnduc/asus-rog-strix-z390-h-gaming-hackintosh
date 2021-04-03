@@ -8,11 +8,11 @@ SSD: SSD Samsung 970 EVO Plus PCIe NVMe V-NAND M.2 2280 250GB MZ-V7S250BW<br>
 
 ### OpenCore
 
-Version: 0.6.2
+Version: 0.6.3
 
 ### MacOS
 
-10.15.7
+11.0.1
 
 ### What's Working
 
