@@ -1,20 +1,18 @@
 # Done
 
-## Download OS
-## Create USB
+[x] Download OS
+[x] Create USB
+[x] Copy EFI folder
+    - EFI/OC/Drivers: Keep `OpenRuntime.efi`, remove everything else.
+    - EFI/OC/Tools: Keep `OpenShell.efi`
 
-## Copy EFI folder
+[] Gathering files
+    `SSDTs` and custom `DSDTs(.aml)` go in `ACPI` folder
+    `Kexts(.kext)` go in `Kexts` folder
+    `Firmware drivers(.efi)` go in the `Drivers` folder
+
 
 # TODO
-
-
-
-## Gathering files
-
-- Reminder:
-SSDTs and custom DSDTs(.aml) go in ACPI folder
-Kexts(.kext) go in Kexts folder
-Firmware drivers(.efi) go in the Drivers folder
 
 #### Firmware Drivers
 
