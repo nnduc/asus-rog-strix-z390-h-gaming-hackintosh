@@ -14,6 +14,12 @@ Version: 0.6.8
 
 MacOS 11.2.3
 
+### Images
+
+![](images/1.png)
+![](images/2.png)
+![](images/4.png)
+
 ### What's Working
 
 - :white_check_mark: Display
