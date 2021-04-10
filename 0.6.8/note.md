@@ -1,5 +1,3 @@
-# Done
-
 [x] Download OS
 [x] Create USB
 [x] Copy EFI folder
